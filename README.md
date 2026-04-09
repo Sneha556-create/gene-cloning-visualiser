@@ -2,6 +2,9 @@ Gene Cloning Visualizer
 
 An interactive full-stack web application that simulates the gene cloning process step-by-step with dynamic animations and visual explanations.
 
+HERE IS THE DEPLOYED VERSION
+https://gene-cloning-visualiser-xq7u.vercel.app/
+
 🚀 Project Overview
 
 The Gene Cloning Visualizer is designed to help users understand the biological process of gene cloning through an engaging and interactive interface.
